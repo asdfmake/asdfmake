@@ -13,33 +13,6 @@ I have strong back-end development skills, with deep knowledge of **JavaScript**
 
 In addition to development, I have hands-on **DevOps experience**, both from personal and professional projects. I’m proficient in deploying and maintaining applications using **Linux**, **Bash scripting**, and tools like **Docker**, **Docker Compose**, **Apache**, and **Nginx**. I'm comfortable configuring web servers, managing virtual machines, and setting up automated, reliable deployment pipelines on cloud-based or self-hosted infrastructure.
 
-My technical background includes:
-
-- 🧩 **Back-End Development**:  
-  - Languages: `Java`, `Kotlin`, `JavaScript`, `TypeScript`
-  - Frameworks: `Spring Boot`, `Node.js`, `Express.js`, `Next.js`
-  - Libraries & Tools: `Spring Security`, `Spring Web`, `Spring Data JPA`, `Socket.io`
-  - Databases: `MySQL`, `MongoDB`, `Redis`
-  - API Development: RESTful services, real-time features
-
-- 🛠️ **DevOps & Deployment**:  
-  - Web servers: `Nginx`, `Apache`
-  - Tools: `Docker`, `Docker Compose`, `Virtual Machines`
-  - Platforms: Cloud & self-hosted deployments
-  - Experience with `Linux`, Bash scripting, and command-line tools  
-  - Managing and maintaining both **personal** and **professional** infrastructure and deployments
-
-- 🎮 **Game Development**:  
-  - Tools: `Unity`, `C#`
-  - Focus: Gameplay mechanics, user experience
-
-- 🧰 **General Skills**:  
-  - Writing clean and maintainable code  
-  - Collaborative development using `Git`  
-  - Performance-focused and user-oriented architecture  
-
----
-
 ## 🚀 Projects Showcase
 
 ### 📌 Project 1: **[airsoftshop.rs](https://github.com/asdfmake/airsoftshop.rs)**
