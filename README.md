@@ -36,7 +36,7 @@ In addition to development, I have hands-on **DevOps experience**, both from per
 
 ---
 
-### 📌 Project 4: **[ValProj](https://github.com/asdfmake/ValProj/settings)**
+### 📌 Project 4: **[ValProj](https://github.com/asdfmake/ValProj)**
 - **Stack**: `Nextjs`, `Stripe`, `WebHooks`
 - **Description**: Quickly enabled sripe webhooks for testing purposes
 - **Status**: 🔴 Offline – Development stopped
