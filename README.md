@@ -23,9 +23,10 @@ In addition to development, I have hands-on **DevOps experience**, both from per
 ---
 
 ### 📌 Project 2: **[OnlineGamePrototype](https://github.com/asdfmake/OnlineGamePrototype)**
-- **Stack**: `Node.js`, `HTML`, `CSS`, `JS`
+- **Stack**: `Node.js`, `HTML`, `CSS`, `JS`, `socket.io`
 - **Description**: An online Tic-Tac-Toe (XO) game where players can create private rooms and share room IDs to play with friends, or choose to play against a simple AI bot. Built with real-time multiplayer support and a clean, user-friendly interface.
-- **Status**: 🟡 Maintenance – Awaiting deployment
+- **Status**: 🟢 Online – [ajvn.org/tictactoe](https://ajvn.org/tictactoe/)
+- ⚠️ Note: This is a fairly old project and has some bugs, when playing online, you can only play one round before encountering issues.
 
 ---
 
